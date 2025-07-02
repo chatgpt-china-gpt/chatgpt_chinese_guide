@@ -39,7 +39,7 @@
 | [xsimplechat.com](https://xsimplechat.com)   | GPT-4, GPT-3.5，deepseek-r1，GPT-o3 | 有              | 微信扫码使用        | ⭐⭐⭐⭐⭐    | 运营时长两年，支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
 | [chat.lanjingai.org](https://chat.lanjingai.org)         | GPT-4, GPT-o1, Claude, deepseek-r1,GPT-o3  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网，可以使用实时语音对话，视频对话         |
 | [chat.lify.vip](https://www.yixiaai.com) | GPT-4, GPT-3.5 | 有              | 微信扫码使用        | ⭐⭐⭐⭐     | 支持开发者 API，提供长时间服务                 |
-| [chat.lanjingai.org](https://chat.lanjingai.org)   | GPT-3.5        | 有              | 微信扫码使用        | ⭐⭐⭐      | 使用简单，适合基础聊天用途                     |
+| [gpt.lanjing.pro](https://gpt.lanjing.pro)   | GPT-3.5        | 有              | 微信扫码使用        | ⭐⭐⭐      | 使用简单，适合基础聊天用途                     |
 
 ---
 
